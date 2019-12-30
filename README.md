@@ -36,7 +36,7 @@ add material design to any page
 
 ## Example site
 
-[example source to go off of](view-source:https://getmdl.io/templates/text-only/index.html)
+[example site to go off of](https://getmdl.io/templates/text-only/index.html)
 
 
 
